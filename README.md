@@ -32,3 +32,20 @@ portfolio/
 │ ├── images/
 │ └── fonts/
 └── README.md
+
+Live Website
+
+Check out the live version of the project here:
+https://portfolio-k0htrt11w-goitaroys-projects.vercel.app
+
+👤 Author
+
+Goita Roy
+
+Department: Educational Technology and Engineering
+
+Location: Dinajpur, Bangladesh
+
+GitHub:https://github.com/goitaroy
+
+Email:goitaroy@gmail.com
